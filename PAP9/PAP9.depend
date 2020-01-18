@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1526825289 source:d:\pap9\fungsi.c
+	"header.h"
+
+1526823469 d:\pap9\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526822888 source:d:\pap9\main.c
+	"header.h"
+
+1526825290 source:e:\alpro\pap9\fungsi.c
+	"header.h"
+
+1526823470 e:\alpro\pap9\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526825334 source:e:\alpro\pap9\main.c
+	"header.h"
+
